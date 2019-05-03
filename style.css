@@ -1,0 +1,30 @@
+body {
+    background-image: url('https://img.buzzfeed.com/buzzfeed-static/static/2014-04/enhanced/webdr05/22/7/anigif_enhanced-11392-1398165075-4.gif?downsize=700:*&output-format=auto&output-quality=auto');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#logo {
+    height: 100%;
+    width: 100%;
+}
+
+#logoContainer {
+    background-color: gray;
+    width: 150px;
+    border: solid 4px black;
+    position: absolute;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#contactColumn {
+    height: 460px;
+    width: 150px;
+    background-color: gray;
+    position: absolute;
+    margin-top: 147px;
+    left: 0;
+    border: solid 4px black;
+}
